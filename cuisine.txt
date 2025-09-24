@@ -2,4 +2,8 @@ Commande ECHO activ‚e.
 Lasagnes
 Gratin dauphinois 
 Curry
+<<<<<<< HEAD
 Poulet Tikka 
+=======
+Tikka 
+>>>>>>> origin/feature/indian
